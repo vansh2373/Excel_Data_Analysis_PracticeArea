@@ -1,0 +1,6 @@
+Cleaning Steps
+First I checked and removed Duplicates from all the data 
+Secondly I fixed the gender Column By Converting all the Genders into proper Form
+Then I Handled the missing Values which was there in Text columns so I Replaced Blanks with Unknown tag
+After that I added two new column one is Total Scores and the other one is Average scores
+Finally I applied conditional formating for filling the scores less than 40 with red color and greater than or equal to 90 with green color
